@@ -1,0 +1,13 @@
+body{
+    background-image: url(../../Web/img/backgrounds/SYY2mJz.png);
+    padding:0;
+    margin:0;
+}
+.game{
+
+  width: 62.4%;
+  display: flex;
+  margin: auto;
+  height: 100%;
+  border: 5px solid #333;
+}
