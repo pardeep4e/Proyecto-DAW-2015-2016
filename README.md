@@ -2,7 +2,7 @@
 Phaser object orientation with objects and class.
 We do not use prototype
 
-<strong> autors: </strong> <a href="https://twitter.com/pardeep4e">@pardeep4e</a> &  <a href="https://twitter.com/sorii34">@sorii34</a>
+<strong> autors: </strong> <a href="https://twitter.com/pardeep4e">@pardeep4e</a> &  <a href="https://twitter.com/Sori_please">@Sori_please</a>
 
 Final Project daw
 
